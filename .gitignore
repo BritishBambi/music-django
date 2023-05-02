@@ -1,5 +1,5 @@
-.sqlite3
-.env
+env.py
 __pycache__/
 node_modules/
 .coverage
+*.sqlite3
